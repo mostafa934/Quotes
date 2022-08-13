@@ -1,0 +1,30 @@
+#display{
+    border:1px solid #fff ;
+    width: 50%;
+    margin: 2rem auto;
+    padding: 2rem;
+     font-family: 'Italianno', cursive;
+    font-size: 30px;
+   
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Italianno', cursive; */
+}
+.h{
+    font-family: 'Archivo', sans-serif;
+    color:#2771a3 ;
+}
+
+#display h2{
+    color: #2771a3;
+    font-family: 'Archivo', sans-serif;
+    
+}
+body{
+    background-color: #254052;
+    color: #fff;
+}
+.x{
+    margin: 1rem auto;
+}
